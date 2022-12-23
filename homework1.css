@@ -1,0 +1,41 @@
+.head {
+  text-align: center;
+  font-size: 100px;
+  font-family: "Courier New", Courier, monospace;
+}
+.card {
+  display: flex;
+  justify-content: center;
+}
+.cards1 {
+  padding: 20px 70px;
+  text-align: center;
+  font-family: Arial;
+  border-top: 1px solid black;
+  border-left: 1px solid black;
+  border-bottom: 1px solid black;
+  border-bottom-left-radius: 20px;
+  border-top-left-radius: 20px;
+}
+.head2 {
+  color: goldenrod;
+}
+.cards2 {
+  padding: 20px 50px;
+  text-align: center;
+  font-family: Arial;
+  border-left: 1px solid black;
+  border-right: 1px solid black;
+  border-top: 1px solid black;
+  border-bottom: 1px solid black;
+}
+.cards3 {
+  padding: 20px 50px;
+  text-align: center;
+  font-family: Arial;
+  border-top: 1px solid black;
+  border-right: 1px solid black;
+  border-bottom: 1px solid black;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+}
